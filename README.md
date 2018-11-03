@@ -10,3 +10,13 @@ This Slack bot does two things:
 - Does What are you Working On (WAYWO) announcements every Thursday
 
 Feel free to make pull requests adjusting those functionalities or adding more.
+
+# To start locally
+
+- Checkout the repo
+- `npm install`
+- `npm start`
+
+# To run on Heroku
+
+...
