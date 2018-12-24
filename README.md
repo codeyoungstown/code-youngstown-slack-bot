@@ -1,9 +1,19 @@
 # Code Youngstown Bot
 
-This is the repo for [Code Youngstown's](https://codeyoungstown.com/) Slack bot. The bot currently does the following:
+This is the repo for [Code Youngstown's](https://codeyoungstown.com/) Slack bot.
+
+This repo's `master` branch is always synced to a Heroku instance that [@JoeDuncko](https://github.com/JoeDuncko) runs.
+
+The bot currently does the following:
 
 - Asks new members to introduce themselves in the `#intro` channel
 - Asks everyone what they are working on in the `#waywo` Slack channel every Thursday
+
+Have an issue with Code Youngstown bot? Report it! Or, better yet, fix it and make a pull request!
+
+Also, feel free to contribute new skills via Pull Requests!
+
+Need help getting started? Not sure if the skill you want to contribute will be appreciated? Ask in the `#github` channel in [Code Youngstown's Slack](http://slack.codeyoungstown.com/) and we'll help you out!
 
 # Botkit Starter Kit for Slack Bots
 
