@@ -1,3 +1,10 @@
+# Code Youngstown Bot
+
+This is the repo for [Code Youngstown's](https://codeyoungstown.com/) Slack bot. The bot currently does the following:
+
+- Asks new members to introduce themselves in the `#intro` channel
+- Asks everyone what they are working on in the `#waywo` Slack channel every Thursday
+
 # Botkit Starter Kit for Slack Bots
 
 This repo contains everything you need to get started building a Slack bot with [Botkit](https://botkit.ai) and [Botkit Studio](https://botkit.ai).
