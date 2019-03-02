@@ -2,16 +2,21 @@
 
 This is the repo for [Code Youngstown's](https://codeyoungstown.com/) Slack bot.
 
-This repo's `master` branch is always synced to a Heroku instance that [@JoeDuncko](https://github.com/JoeDuncko) runs.
+This repo's `master` branch is always synced to a Heroku instance that [@JoeDuncko](https://github.com/JoeDuncko) runs at https://code-youngstown-slack-bot.herokuapp.com/.
 
 The bot currently does the following:
 
 - Asks new members to introduce themselves in the `#intro` channel
-- Asks everyone what they are working on in the `#waywo` Slack channel every Thursday
 
 Have an issue with Code Youngstown bot? Report it! Or, better yet, fix it and make a pull request!
 
 Also, feel free to contribute new skills via Pull Requests!
+
+# To start locally
+
+- Checkout the repo
+- `npm install`
+- `npm start`
 
 Need help getting started? Not sure if the skill you want to contribute will be appreciated? Ask in the `#github` channel in [Code Youngstown's Slack](http://slack.codeyoungstown.com/) and we'll help you out!
 
@@ -57,10 +62,10 @@ cd botkit-starter-slack
 npm install
 ```
 
-#### Set up your Slack Application 
-Once you have setup your Botkit development enviroment, the next thing you will want to do is set up a new Slack application via the [Slack developer portal](https://api.slack.com/). This is a multi-step process, but only takes a few minutes. 
+#### Set up your Slack Application
+Once you have setup your Botkit development enviroment, the next thing you will want to do is set up a new Slack application via the [Slack developer portal](https://api.slack.com/). This is a multi-step process, but only takes a few minutes.
 
-* [Read this step-by-step guide](https://botkit.ai/docs/provisioning/slack-events-api.html) to make sure everything is set up. 
+* [Read this step-by-step guide](https://botkit.ai/docs/provisioning/slack-events-api.html) to make sure everything is set up.
 
 * We also have this [handy video walkthrough](https://youtu.be/us2zdf0vRz0) for setting up this project with Glitch.
 
@@ -112,12 +117,12 @@ You can find full documentation for Botkit on our [GitHub page](https://github.c
 ###  Need more help?
 * Glitch allows users to ask the community for help directly from the editor! For more information on raising your hand, [read this blog post.](https://medium.com/glitch/just-raise-your-hand-how-glitch-helps-aa6564cb1685)
 
-* Join our thriving community of Botkit developers and bot enthusiasts at large. Over 4500 members strong, [our open Slack group](http://community.botkit.ai) is _the place_ for people interested in the art and science of making bots. 
+* Join our thriving community of Botkit developers and bot enthusiasts at large. Over 4500 members strong, [our open Slack group](http://community.botkit.ai) is _the place_ for people interested in the art and science of making bots.
 
  Come to ask questions, share your progress, and commune with your peers!
 
-* We also host a [regular meetup and annual conference called TALKABOT.](http://talkabot.ai) Come meet and learn from other bot developers! 
- 
+* We also host a [regular meetup and annual conference called TALKABOT.](http://talkabot.ai) Come meet and learn from other bot developers!
+
  [Full video of our 2016 event is available on Youtube.](https://www.youtube.com/playlist?list=PLD3JNfKLDs7WsEHSal2cfwG0Fex7A6aok)
 
 
